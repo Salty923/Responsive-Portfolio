@@ -264,6 +264,11 @@ form{
 		float: left;
 	}
 
+	.left-side_p{
+		width: 100%;
+		float: left;
+	}
+
 	.left-sidenav{
 		width: 66%;
 		float: left;
@@ -319,6 +324,26 @@ form{
 		width: 90%;
 		float: none;
 		margin:0px auto;
+		background-color: white;
+	}
+
+	.right-side_p{
+		width: 100%;
+		float: none;
+		clear: both;
+	}
+
+	.p1{
+		width: 50%;
+		padding: 20px;
+	}
+
+	.label{
+		position: relative;
+		top: 220px;
+		left: 0;
+		width: 100%;
+		bottom: 0px;
 	}
 }
 
@@ -362,6 +387,18 @@ form{
 
 	.top{
 		width: 100%
+	}
+
+	.p1{
+		width: 50%;
+		padding: 20px;
+	}
+
+	.label{
+		position: relative;
+		top: 263px;
+		width: 100%;
+		bottom: 10px;
 	}
 
 	
@@ -408,7 +445,7 @@ form{
 		width: 100%
 	}
 
-	 	.selfie {
+	 .selfie {
 		width: 100%;
 		height: auto;
 	}
@@ -435,6 +472,16 @@ form{
 	li{
 		width: 33.3%;
 		text-align: center;
+	}
+
+	.label{
+		position: relative;
+		bottom: 20px;
+		top: 450px;
+	}
+
+	.p1{
+		width: 100%;
 	}
 }
 
